@@ -38,14 +38,15 @@ Este é um dos projetos desenvolvidos dentro do programa de aprendizado de **Bac
 
 ### Aplicação
 
-Após rodar a aplicação, acesse o endereço `http://localhost:8080/h2-console/` no seu navegador e para interagir com a interface abra o arquivo [index.html](src\main\resources\templates\index.html) no seu navegador.
+Após rodar a aplicação, para interagir com a interface abra o arquivo [index.html](src\main\resources\templates\index.html) e acesse o endereço `http://localhost:8080/h2-console/` no seu navegador.
 
 ## 📷 Imagens
+
+### Consulta de CEP
+
+![Interface](imgs/Interface.png)
 
 ### H2
 
 ![H2](imgs/H2.png)
 
-### Consulta de CEP
-
-![Interface](imgs/Interface.png)
