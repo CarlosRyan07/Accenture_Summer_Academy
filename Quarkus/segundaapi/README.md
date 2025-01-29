@@ -36,7 +36,7 @@ mvn quarkus:dev
 E assim consegui rodar o projeto✅
 ---
 
-## POST
+A aplicação irá subir em [http://localhost:8080/h2](http://localhost:8080/h2). 
 
 No Postman utilize a seguinte formatação para fazer um POST:
 
